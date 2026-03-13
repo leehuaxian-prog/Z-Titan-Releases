@@ -1,4 +1,4 @@
-Z-Titan 压缩专家 (Professional Edition) - 产品说明与更新日志
+Z-Titan 压缩专家 (Professional Edition) 
 
 【产品优势与架构定位】
 Z-Titan 是一款专为现代 Windows 打造的企业级解压缩引擎，兼顾极致性能与纯净体验。
