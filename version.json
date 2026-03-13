@@ -1,6 +1,6 @@
 {
-  "version": "3.5.0",
-  "date": "2026-05-01",
+  "version": "3.7.0",
+  "date": "2026-03-13",
   "changelog": "【版本 3.6.0 更新内容】\n\n1. 🚀 新增：全自动后台静默下载与热更新功能！\n2. 🎨 优化：全面升级 UI 引擎，完美适配高分辨率屏幕。\n3. 🔒 修复：增强了防覆盖机制，进一步保护数据安全。",
   "download_url": "https://ghfast.top/https://github.com/leehuaxian-prog/Z-Titan-Releases/releases/download/v3.5.0/Z-Titan_Setup.exe"
 }
